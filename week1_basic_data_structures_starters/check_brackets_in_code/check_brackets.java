@@ -49,7 +49,7 @@ class check_brackets {
         BufferedReader reader = new BufferedReader(input_stream);
         String text = reader.readLine();
 
-        int ans = -1;
+        int ans = -1; //내가 새롭게 추가함
         Stack<Bracket> opening_brackets_stack = new Stack<Bracket>();
         for (int position = 0; position < text.length(); ++position) {
             char next = text.charAt(position);
