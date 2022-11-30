@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/edX_Data_Structures_Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/edX_Data_Structures_Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_basic_data_structures_starters/week1_basic_data_structures_starters.iml" filepath="$PROJECT_DIR$/week1_basic_data_structures_starters/week1_basic_data_structures_starters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2_priority_queues_and_disjoint_sets_starters/week2_priority_queues_and_disjoint_sets_starters.iml" filepath="$PROJECT_DIR$/week2_priority_queues_and_disjoint_sets_starters/week2_priority_queues_and_disjoint_sets_starters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3_hashing_starters/week3_hashing_starters.iml" filepath="$PROJECT_DIR$/week3_hashing_starters/week3_hashing_starters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4_search_trees_starters/week4_search_trees_starters.iml" filepath="$PROJECT_DIR$/week4_search_trees_starters/week4_search_trees_starters.iml" />
+    </modules>
+  </component>
+</project>
